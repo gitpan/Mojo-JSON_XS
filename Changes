@@ -1,0 +1,9 @@
+0.024 2014-11-07
+  * Corrected usage ordering bug in 10-json.t.
+  * Documented differences from Mojo::JSON.
+
+0.011 2014-11-02
+  * Added missing strictage.
+
+0.001 2014-11-01
+  * Initial bundling of Sebastian Riedel's code.
